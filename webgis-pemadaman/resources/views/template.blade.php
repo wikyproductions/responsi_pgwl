@@ -345,10 +345,10 @@
 <body>
 
     <header class="saas-navbar w-100 d-flex justify-content-between align-items-center px-4">
-        <div class="d-flex align-items-center gap-3">
-            <span class="material-symbols-outlined text-primary fs-3">bolt</span>
-            <a class="text-decoration-none brand-title" href="/map">WebGIS Pemadaman DIY</a>
-        </div>
+    <div class="d-flex align-items-center gap-3">
+        <i class="fa-solid fa-menorah text-primary fs-3"></i>
+        <a class="text-decoration-none brand-title" href="/map">Blackout</a>
+    </div>
 
         <div class="d-flex align-items-center gap-2">
             <button class="nav-icon-btn" id="themeToggleBtn" title="Ganti Tema Visual">

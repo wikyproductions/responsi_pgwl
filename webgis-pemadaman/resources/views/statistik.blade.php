@@ -178,7 +178,7 @@
         <header
             class="bg-surface/80 backdrop-blur-xl border-b border-outline-variant flex justify-between items-center h-16 px-margin-container w-full sticky top-0 z-50 font-poppins transition-colors duration-300">
             <div class="flex items-center gap-4">
-                <h1 class="text-[20px] font-bold text-primary tracking-tight">WebGIS Pemadaman DIY</h1>
+                <h1 class="text-[20px] font-bold text-primary tracking-tight">Blackout</h1>
             </div>
             <div class="flex items-center gap-4">
                 <div class="flex items-center gap-1 border-r border-outline-variant pr-4 h-8">
